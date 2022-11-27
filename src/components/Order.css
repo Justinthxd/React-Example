@@ -1,0 +1,10 @@
+.cont {
+    background-color: rgb(94, 101, 114);
+    border-radius: 7px;
+    margin: 15px 0px;
+    padding: 10px;
+    color: white;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
